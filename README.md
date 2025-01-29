@@ -34,7 +34,7 @@
 + Password: 123
 ### Default Employee User:
 
-+ Username: john 
++ Username: mahin 
 + Password: 123
 
 ## Contributing
