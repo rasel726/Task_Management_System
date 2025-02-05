@@ -32,9 +32,16 @@
 
 + Username: admin
 + Password: 123
+
 ### Default Employee User:
 
 + Username: mahin 
++ Password: 123
+
++ Username: arif 
++ Password: 123
+
+ Username: shanto 
 + Password: 123
 
 ## Contributing
